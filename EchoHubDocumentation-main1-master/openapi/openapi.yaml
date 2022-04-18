@@ -2,7 +2,7 @@ openapi: 3.1.0
 info:
   title: ECHOHUB API
   description: >-
-    API Endpoints for the ECHOHUB Project.
+    API Endpoints for the ECHOHUB Project. Team
 
 
     # Authentication
@@ -74,4 +74,4 @@ tags:
       checking account.  
 
       Money is transferred over the ACH (Automated Clearing House) network and
-      deposited into the Payee’s checking account.
+      deposited into the Payee’s checking account. 
